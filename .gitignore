@@ -1,5 +1,7 @@
 /env/*
 
+*.pyc
+
 # IDE
 
 .idea/*
